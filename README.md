@@ -61,7 +61,7 @@ https://jsonplaceholder.typicode.com/comments
 
 ## Screenshots
 
-![Consumo de API](DAWII_T3_HUAMANCHUMO_CORTAVIARTE_MANUEL_ALEJANDRO/src/img/Api.png.)
+![Consumo de API](CONSUMO DE API/src/img/Api.png.)
 
 
->>>>>>> 1a7706e576693d5be5b2fae69fe7b1eae8bf2d69
+
