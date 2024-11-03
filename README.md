@@ -1,4 +1,4 @@
-# Angular-Consumo-de-Api
+# Angular Consumo de API
 
 Se presenta una explicación del código  que corresponde a un proyecto Angular que utiliza Angular Material para la interfaz de usuario y hace uso de componentes para mostrar datos de una API:
 
