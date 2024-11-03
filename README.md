@@ -61,7 +61,7 @@ https://jsonplaceholder.typicode.com/comments
 
 ## Screenshots
 
-![Consumo de API](CONSUMO DE API/src/img/Api.png.)
+![Consumo de API](../CONSUMO DE API/src/img/Api.png.)
 
 
 
